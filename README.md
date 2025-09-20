@@ -56,6 +56,16 @@ DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals,
 
 File Format -  csv files for development and .png for dashboard previews.
 
+5.Important Insights
+
+o Women are more likely to buy compared to men(~65%).
+
+o Maharashtra ,Karnataka and Uttar Pradesh are the top 3. 
+
+o Adult age group (30-49 yrs) is max contributing (~50%). 
+
+o Amazon,Flipkart and Myntra channels are max contribution.
+
 
 Final Conclusion to impove Vrinda store Sales: 
 
