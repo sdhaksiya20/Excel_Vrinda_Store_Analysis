@@ -8,7 +8,7 @@ A comprehensive e-commerce analytics dashboard designed for Vrinda Store's annua
 
 📊 Short Description
 
-An interactive retail analytics platform that visualizes Vrinda Store's 2022 annual performance across multiple dimensions including monthly sales trends, customer segmentation by age and gender, geographic performance analysis, and multi-channel sales distribution. The dashboard processes comprehensive e-commerce data to provide actionable insights for inventory management, marketing strategies, and operational optimization.
+An interactive retail analytics platform that visualizes Vrinda Store's 2025 annual performance across multiple dimensions including monthly sales trends, customer segmentation by age and gender, geographic performance analysis, and multi-channel sales distribution. The dashboard processes comprehensive e-commerce data to provide actionable insights for inventory management, marketing strategies, and operational optimization.
 
 ✨ Key Features
 
